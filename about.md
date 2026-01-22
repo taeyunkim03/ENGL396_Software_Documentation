@@ -37,6 +37,7 @@ These are the classes I'm taking this quarter:
 | CSE 412 | Data Visualization |
 | STAT 342 | Probability and Mathematical Statistics III |
 | STAT 423 | Applied Regression and Analysis of Variance |
+| STAT 499 | Undergrad Research |
 
 ---
 
